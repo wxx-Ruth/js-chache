@@ -65,7 +65,7 @@ function clear(argument) {
 	 		clearTimeout(cacheInfo.timeout);
 	 	}
 	 	size = 0;
-	 	cache = Object.creat(null);
+	 	cache = Object.create(null);
 	 }
 }
 
